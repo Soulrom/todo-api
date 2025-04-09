@@ -30,7 +30,7 @@ This project is a REST API for managing a To-Do List, developed using Laravel 12
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/todo-api.git
+   git [clone https://github.com/yourusername/todo-api.git](https://github.com/Soulrom/todo-api.git)
    cd todo-api
    ```
 
